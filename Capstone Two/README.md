@@ -2,5 +2,5 @@
 
 # Predicting Asteroid Diameter
 
-###Project Statement:
-The purpose of this project is to determine a method of predicting the diameter of asteroids.
+### Project Statement:
+> The purpose of this project is to determine a method of predicting the diameter of asteroids.
