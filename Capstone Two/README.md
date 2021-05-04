@@ -7,12 +7,16 @@
 
 ### Context:
 > Asteroids range from a height equivalent to the average human to more than a quarter the size of the moon and orbit in all different areas of the solar system. 
+
 > NASA and other space organizations are interested in their size for modeling the effect of their impact on Earth and other bodies in the solar system. 
+
 > There are also talks about traveling to certain asteroids for mining purposes or (not just for the movies) for altering their trajectory.
 
 ### Dataset:
-> Version: https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter
-> Source: https://ssd.jpl.nasa.gov/sbdb_query.cgi
+
+Version: https://www.kaggle.com/basu369victor/prediction-of-asteroid-diameter
+
+Source: https://ssd.jpl.nasa.gov/sbdb_query.cgi
 
 ### Data Wrangling
 [Asteroid Data Wrangling Notebook](https://github.com/emilybocim/springboard/blob/main/Capstone%20Two/Asteroids_Data_Wrangling.ipynb)
